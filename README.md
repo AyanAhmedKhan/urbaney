@@ -184,7 +184,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Akshit - [@akshit-pahade](https://www.linkedin.com/in/akshit-pahade/) - akpahade55@gmail.com
+Akshit - [@AyanAhmedKhan](https://www.linkedin.com/in/ayan-ahmed-khan) - ayan.ahmedkhan591@gmail.com
 
 Project Link: [https://github.com/AyanAhmedKhan/UrbanEye](https://github.com/AyanAhmedKhan/UrbanEye)
 
